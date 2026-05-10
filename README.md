@@ -16,4 +16,4 @@ My contribution included data analysis, interpretation of results and explorator
 
 ## Full Report
 
-[Open PDF Report](project report.pdf)
+[Open PDF Report](gdp_life_satisfaction_report.pdf)
